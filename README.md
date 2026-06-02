@@ -1,10 +1,10 @@
-# 🎓 Student Academic Portal
+#  Student Academic Portal
 
 A menu-driven C++ application developed to demonstrate the practical implementation of Data Structures and Algorithms (DSA) concepts in a real-world academic management system.
 
 ---
 
-# 📖 Project Description
+#  Project Description
 
 The Student Academic Portal is designed to manage student records while demonstrating various DSA concepts including Arrays, Linked Lists, Stacks, Queues, Searching Algorithms, Sorting Algorithms, Trees, Graphs, File Organization, Dynamic Programming, and Greedy Algorithms.
 
@@ -12,7 +12,7 @@ The project integrates multiple DSA topics into a single application and provide
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 Student Academic Portal
@@ -51,7 +51,7 @@ Student Academic Portal
 
 ---
 
-# 🧩 Data Structures and Algorithms Used
+# Data Structures and Algorithms Used
 
 ---
 
@@ -579,7 +579,7 @@ Greedy selects activities with no time conflicts.
 
 ---
 
-# 👨‍💻 Team Contributions
+# Team Contributions
 
 ## Mahek
 
@@ -630,7 +630,7 @@ g++ main.cpp -o portal
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 - Practical implementation of DSA concepts
 - Understanding searching and sorting techniques
@@ -641,6 +641,6 @@ g++ main.cpp -o portal
 
 ---
 
-# 📄 Academic Purpose
+# Academic Purpose
 
 This project was developed as a Data Structures and Algorithms (DSA) Case Study for educational purposes.
